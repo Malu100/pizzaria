@@ -6,6 +6,12 @@
     font-weight: 400;
     font-style: normal;
   }
+
+  :root {
+    --c1: #ffc506;
+    --c2: #5e5252;
+    --c3: #666;
+}
   
 
 body {
