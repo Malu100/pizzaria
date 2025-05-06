@@ -122,6 +122,11 @@ header {
     transition: all 400ms ease-in;
 }
 
+.btn button a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .btn button:hover {
     border: 1px solid #ffc506;
     background-color: transparent;

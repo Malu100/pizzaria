@@ -122,6 +122,11 @@ header {
     transition: all 400ms ease-in;
 }
 
+.btn button a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .btn button:hover {
     border: 1px solid #ffc506;
     background-color: transparent;
@@ -281,6 +286,15 @@ main {
     font-size: 2rem;
 }
 
+.contatos-secao i {
+    max-width: 1rem
+}
+
+.contatos-secao div {
+    cursor: pointer;
+    transition: all 200ms ease-in;
+}
+
 .contatos-secao div:hover {
     color: #ffc506; /* Amarelo */
     cursor: pointer;
@@ -298,30 +312,6 @@ main {
 .contatos-secao i {
     margin-right: 10px; /* Espaço entre ícone e texto */
     font-size: 2rem; /* Ajuste o tamanho do ícone */
-}
-
-.contatos-secao i:hover {
-    color: #ffc506; /* Amarelo */
-    cursor: pointer;
-}
-
-.containerheader .containerMenu nav a:hover {
-    color: rgb(250, 248, 248);
-    font-size: 20px;
-    padding: 10px;
-    margin: 10px;
-    background-color: rgb(61, 30, 4); /* Corrigido */
-    border-radius: 16px;
-}
-
-.contatos-secao .telefone:hover {
-    color: #ffc506; /* Amarelo */
-    cursor: pointer;
-}
-
-.contatos-secao .instagram:hover {
-    color: #ffc506; /* Amarelo */
-    cursor: pointer;
 }
 
 .contatos-secao i:hover {
