@@ -13,7 +13,8 @@
 - [x] **Protótipo** funcional inicial (Com Figma - Mobile e Web))
     - [ ] Web
     - [x] Mobile
-- [ ] Elencar os **[requisitos funcionais como neste exemplo](./requisitos.md)**. - [x] Modelar o banco de dados MER x DER Modelo conceitual
+- [ ] Elencar os **[requisitos funcionais como neste exemplo](./requisitos.md)**.
+- [x] Modelar o banco de dados MER x DER Modelo conceitual
 - [x] Cadastrar os integrantes do grupo nas ferramentas de gestão de projeto escolhida Trello, Jira, Asana, etc.
 #### Próxima Sprint
 - [ ] [DC (Diagrama de Classes)](https://github.com/wellifabio/senai2024/tree/main/ds/3des/03-rms/aula03) Back-End
